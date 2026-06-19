@@ -27,6 +27,17 @@ Total Records: 2,845
 - Employee distribution is spread across multiple business units.
 - Most employees are currently active, while a smaller percentage are terminated.
 
+## Dashboard Access
+
+Google Sheets Dashboard:
+https://docs.google.com/spreadsheets/d/1-yOX4xl3VQsA-5S1PW73_yYdVY0WEKhnh51CRBc_NZU/edit?usp=sharing
+
+## Files Included
+
+- Cleaned_HR_Data_Analysis.csv
+- Dashboard Screenshot
+- README.md
+
 ## Visualizations
 - Department-wise Employee Count (Bar Chart)
 - Business Unit-wise Employee Count (Column Chart)
